@@ -83,5 +83,5 @@ I’ve developed Power BI dashboards, Python and R models, and SQL data pipeline
 ## 📬 Contact
 **Created by:** Neka Everett  
 📧 [Email](mailto:neka.everett@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/neka-e-a3443368/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/neka-e-a3443368/)  
 🌐 [Portfolio Home](https://github.com/YOUR-USERNAME/data-portfolio)
